@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GradingSys/static/css/main.becb220e.css",
-    "main.js": "/GradingSys/static/js/main.11e09879.js",
+    "main.js": "/GradingSys/static/js/main.b34cbe3e.js",
     "static/js/498.d5ae14fe.chunk.js": "/GradingSys/static/js/498.d5ae14fe.chunk.js",
     "static/js/703.73ba919f.chunk.js": "/GradingSys/static/js/703.73ba919f.chunk.js",
     "static/js/541.324426fb.chunk.js": "/GradingSys/static/js/541.324426fb.chunk.js",
     "static/js/787.71c3eee7.chunk.js": "/GradingSys/static/js/787.71c3eee7.chunk.js",
     "index.html": "/GradingSys/index.html",
     "main.becb220e.css.map": "/GradingSys/static/css/main.becb220e.css.map",
-    "main.11e09879.js.map": "/GradingSys/static/js/main.11e09879.js.map",
+    "main.b34cbe3e.js.map": "/GradingSys/static/js/main.b34cbe3e.js.map",
     "498.d5ae14fe.chunk.js.map": "/GradingSys/static/js/498.d5ae14fe.chunk.js.map",
     "703.73ba919f.chunk.js.map": "/GradingSys/static/js/703.73ba919f.chunk.js.map",
     "541.324426fb.chunk.js.map": "/GradingSys/static/js/541.324426fb.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.becb220e.css",
-    "static/js/main.11e09879.js"
+    "static/js/main.b34cbe3e.js"
   ]
 }
